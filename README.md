@@ -100,4 +100,3 @@ Sinta-se à vontade para contribuir, relatar problemas ou sugerir melhorias. O p
 
 ---
 
-Espero que este README facilite o uso e a personalização do projeto e do script de envio de e-mails em Python!
