@@ -94,9 +94,8 @@ python enviar_email.py usuario@example.com "Assunto do E-mail" "Corpo do E-mail"
 
 Este script deve ser usado com responsabilidade e em conformidade com as políticas de envio de e-mails do servidor SMTP utilizado.
 
-## Contribuições
+## Atualizações
 
-Sinta-se à vontade para contribuir, relatar problemas ou sugerir melhorias. O projeto está aberto para colaboração.
-
+Realizei uma nova atualização, onde é possivel edicionar atualizações aos cards e no banco de dados, em breve lançarei!
 ---
 
